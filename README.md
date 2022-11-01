@@ -1,1 +1,1 @@
-# miniJavaProjectss
+# miniJavaProjects
